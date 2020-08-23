@@ -9,3 +9,6 @@
 σελίδα frontend(JavaScript) όπου βάζοντας  ένα username  θα σου επιστρέφει τι courses έχει διαλέξει ο μαθητής αυτός 
 καθως και άλλους 10 users με τους οποίους μοιαζει περισσότερο ο χρήστης.To backend θα υλοποιηθεί με java και συγκεκριμένα
 με το spring framework.
+
+Youtube Link:
+https://www.youtube.com/watch?v=RM_wugtMDfY
