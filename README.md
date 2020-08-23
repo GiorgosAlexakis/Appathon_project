@@ -12,3 +12,8 @@
 
 Youtube Link:
 https://www.youtube.com/watch?v=RM_wugtMDfY
+
+Gradle Version:6.2.2
+Java SDK:1.8.0_251
+
+"gradle bootRun" to build and run the project.More instructions in the powerpoint presentation.
